@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**opauloh/opauloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<PauloHenrique>
+  <Greetings>
+    👋  Hello! I'm a Sr FullStack Engineer from Brazil, with over 10 years of experience in the field, and in last 6 years I've been working for some top startups in my city and I helped to solve many problems by improving some products or ideas and  developing successful platforms in a fast-paced environment.
+  </Greetings>
+  <Working>
+    🛠  I'm currently solving problems at Robo Laura using Javascript, React.js, Node.js + GraphQL, PostgreSQL, and MongoDB
+  </Working>
+  <Learning>
+    🔭  I’m currently studying Typescript with React and TDD Best practices for React
+  </Learning>
+  <Languages>
+    💬  Languages that I speak: 🇧🇷 (native) 🇺🇸 (advanced) 🇫🇷 (learning)
+  <Languages>
+</PauloHenrique>
+```
