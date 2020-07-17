@@ -19,7 +19,7 @@
   <CurrentYearDiary>
     - 2020-01-25: Started GraphQL courses at Alura
     - 2020-02-16: Started freecodeCamp Frontend Certification
-    - 2020-05-06: Started a real world application using React.js with Typescript
+    - 2020-05-06: Started a side project, a real world application using React.js with Typescript
     - 2020-05-23: Started advanced React (Hooks) Study at tylermcginnis.com
     - 2020-06-10: Forked @mikaelvesavuori/figmagic to develop an integration between Design System and Development based on my researches and studies alongside @dri3lis
     - 2020-06-11: Did some researches about next.js, started their project nextjs-blog for study 
