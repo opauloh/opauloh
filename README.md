@@ -25,6 +25,7 @@
     - 2020-06-11: Did some researches about next.js, started their project nextjs-blog for study 
     - 2020-06-05: Become a studying member at UI.dev, to take advanced Javascript and React concepts
     - 2020-06-24: Created the project @opauloh/store, to study and really understand what is under the hood about store, redux, react-redux and redux-thunk
+    - 2020-08-22: Joined Kent C. Dodds Learning Club for React + TypeScript and TDD  https://kentcdodds.com/clubs/
   </CurrentYearDiary>
 </PauloHenrique>
 ```
