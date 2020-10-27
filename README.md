@@ -29,6 +29,7 @@
     - 2020-07-23: 📚 Started reading the book: Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
     - 2020-08-03: 👨🏻‍🎓 Started Serverless AWS course with Erick Wendel and joined DevSharks community
     - 2020-08-22: 🏛 Become a studying member at Kent C. Dodds dev's community and applied on the Learning Clubs for React + TypeScript and TDD  https://kentcdodds.com/clubs/
+    - 2020-09-29: 🚀 Start studying Epic React courses by Kent C. Dodds https://epicreact.dev/
   </CurrentYearDiary>
 </PauloHenrique>
 ```
