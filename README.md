@@ -30,6 +30,7 @@
     - 2020-08-03: 👨🏻‍🎓 Started Serverless AWS course with Erick Wendel and joined DevSharks community
     - 2020-08-22: 🏛 Become a studying member at Kent C. Dodds dev's community and applied on the Learning Clubs for React + TypeScript and TDD  https://kentcdodds.com/clubs/
     - 2020-09-29: 🚀 Start studying Epic React courses by Kent C. Dodds https://epicreact.dev/
+    - 2020-10-22: 🏆 Start studying Testing Jabascript https://testingjavascript.com/ by Kent C. Dodds
   </CurrentYearDiary>
 </PauloHenrique>
 ```
