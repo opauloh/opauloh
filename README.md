@@ -1,8 +1,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/opauloh)](https://github.com/opauloh)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohenriquesilva/)](https://www.linkedin.com/in/paulohenriquesilva/)
-
-[![2020 Badge](https://img.shields.io/badge/-2020-yellow&link=https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)](https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)
+[![2020 Badge](https://img.shields.io/badge/-2020-yellow)](https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)
 
 ```
 <PauloHenrique>
