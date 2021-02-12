@@ -20,6 +20,7 @@
   <CurrentYearDiary>
     - 2021-01-01: 🎇 Happy new Year!
     - 2021-02-08: 🔭 Started Advanced React Patterns course at Epic React (https://epicreact.dev/)!
+    - 2021-02-08: 🎓 Start Studying at Interaction Design Foundation IDF (https://www.interaction-design.org/)
   </CurrentYearDiary>
 </PauloHenrique>
 ```
