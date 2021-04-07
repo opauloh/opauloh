@@ -19,9 +19,9 @@
   <Languages>
   <CurrentYearDiary>
     - 2021-01-01: 🎇 Happy new Year!
-    - 2021-02-08: 🔭 Started Advanced React Patterns course at [Epic React](https://epicreact.dev/)!
-    - 2021-02-08: 🎓 Start Studying at [Interaction Design Foundation - IDF](https://www.interaction-design.org/)
-    - 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in [JustJavascript](https://justjavascript.com/)
+    - 2021-02-08: 🔭 Started Advanced React Patterns course at Epic React https://epicreact.dev/
+    - 2021-02-08: 🎓 Start Studying at Interaction Design Foundation - IDF (https://www.interaction-design.org/)
+    - 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in JustJavascript (https://justjavascript.com/)
   </CurrentYearDiary>
 </PauloHenrique>
 ```
