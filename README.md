@@ -22,6 +22,7 @@
     - 2021-02-08: 🔭 Started Advanced React Patterns course at Epic React https://epicreact.dev/
     - 2021-02-08: 🎓 Start Studying at Interaction Design Foundation - IDF (https://www.interaction-design.org/)
     - 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in JustJavascript (https://justjavascript.com/)
+    - 2021-04-08: 💬 Participated in UI.dev webinar: Explosive Velocity with TypeScript, Next.js and Tailwind by Tejas Kumar (https://twitter.com/TejasKumar_)
   </CurrentYearDiary>
 </PauloHenrique>
 ```
