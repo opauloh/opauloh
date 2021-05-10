@@ -24,6 +24,7 @@
     - 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in JustJavascript (https://justjavascript.com/)
     - 2021-04-08: 💬 Participated in UI.dev webinar: Explosive Velocity with TypeScript, Next.js and Tailwind by Tejas Kumar (https://twitter.com/TejasKumar_)
     - 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by Eve Porcello (https://github.com/eveporcello)
+    - 2021-05-10: 📊 Started React Performance course at Epic React https://epicreact.dev/
   </CurrentYearDiary>
 </PauloHenrique>
 ```
