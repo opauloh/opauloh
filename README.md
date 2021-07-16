@@ -23,3 +23,4 @@
 - 2021-04-08: 💬 Participated in UI.dev webinar: Explosive Velocity with TypeScript, Next.js and Tailwind by [Tejas Kumar](https://twitter.com/TejasKumar_)
 - 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Eve Porcello](https://github.com/eveporcello)
 - 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev)
+- 2021-07-16: 🎖 Contributed to [Figmagic](https://github.com/mikaelvesavuori/figmagic) - A tool to Generate design tokens and more from Figma documents
