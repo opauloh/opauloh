@@ -7,7 +7,7 @@
 👋  Hello! I'm a Software Engineer from Brazil, with over 10 years of experience in the field, and in last 7 years I've been working for some top startups in the Americas and I helped to solve many problems by improving some products or ideas and  developing successful platforms in a fast-paced environment.
 
 ### Working
-🛠  I'm currently solving problems at HomeLight using Javascript, React.js and Typescript
+🛠  I'm currently solving problems at Cmd using Javascript, React.js and Typescript
 
 ### Learning
 🔭  I’m currently studying Micro Frontends with React, TDD Best practices for React, Advanced React Patterns, React Performance, and UX / UI fundamentals
