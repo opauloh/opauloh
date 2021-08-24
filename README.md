@@ -24,4 +24,5 @@
 - 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Eve Porcello](https://github.com/eveporcello)
 - 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev)
 - 2021-07-16: 🎖 Contributed to [Figmagic](https://github.com/mikaelvesavuori/figmagic) - A tool to Generate design tokens and more from Figma documents
-- 2021-08-03: 🏢 Start working at [cmd](https://github.com/cmdinc)
+- 2021-08-03: 🏢 Start working at [cmd](https://github.com/cmdinc
+- 2021-08-24: 🛳 Start studying Docker for Node.js projects course from [Bret Fisher](https://www.udemy.com/course/docker-mastery-for-nodejs)
