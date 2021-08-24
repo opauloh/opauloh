@@ -10,7 +10,7 @@
 🛠  I'm currently solving problems at Cmd using Javascript, React.js and Typescript
 
 ### Learning
-🔭  I’m currently studying Micro Frontends with React, TDD Best practices for React, Advanced React Patterns, React Performance, and UX / UI fundamentals
+🔭  I’m currently studying Micro Frontends with React, TDD Best practices for React, Advanced React Patterns, React Performance, UX / UI fundamentals, and how to setup Docker for a nice development!
 
 ### Languages
 💬  Languages that I speak: 🇧🇷 (native) 🇺🇸 (advanced) 🇫🇷 (learning)
