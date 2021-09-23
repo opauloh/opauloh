@@ -7,7 +7,7 @@
 👋  Hello! I'm a Software Engineer from Brazil, with over 10 years of experience in the field, and in last 7 years I've been working for some top startups in the Americas and I helped to solve many problems by improving some products or ideas and  developing successful platforms in a fast-paced environment.
 
 ### Working
-🛠  I'm currently solving problems at Cmd using Javascript, React.js and Typescript
+🛠  I'm currently solving problems at Elastic using Javascript, React.js, Typescript and Elastic products
 
 ### Learning
 🔭  I’m currently studying Micro Frontends with React, TDD Best practices for React, Advanced React Patterns, React Performance, UX / UI fundamentals, and how to setup Docker for a nice development!
@@ -24,5 +24,6 @@
 - 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Eve Porcello](https://github.com/eveporcello)
 - 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev)
 - 2021-07-16: 🎖 Contributed to [Figmagic](https://github.com/mikaelvesavuori/figmagic) - A tool to Generate design tokens and more from Figma documents
-- 2021-08-03: 🏢 Start working at [cmd](https://github.com/cmdinc)
+- 2021-08-03: 🏢 Start working at [Cmd](https://github.com/cmdinc)
 - 2021-08-24: 🛳 Start studying Docker for Node.js projects course from [Bret Fisher](https://www.udemy.com/course/docker-mastery-for-nodejs)
+- 2021-09-23: 🏢 Start working at [Elastic](https://github.com/elastic) from Cmd acquistion
