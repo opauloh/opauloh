@@ -21,9 +21,10 @@
 - 2021-02-08: 🎓 Start Studying at Interaction Design Foundation - [IDF](https://www.interaction-design.org/)
 - 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in [JustJavascript](https://justjavascript.com/)
 - 2021-04-08: 💬 Participated in UI.dev webinar: Explosive Velocity with TypeScript, Next.js and Tailwind by [Tejas Kumar](https://twitter.com/TejasKumar_)
-- 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Eve Porcello](https://github.com/eveporcello)
-- 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev)
+- 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Ekve Porcello](https://github.com/eveporcello)
+- 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev) from Kent C Dodds
 - 2021-07-16: 🎖 Contributed to [Figmagic](https://github.com/mikaelvesavuori/figmagic) - A tool to Generate design tokens and more from Figma documents
 - 2021-08-03: 🏢 Start working at [Cmd](https://github.com/cmdinc)
 - 2021-08-24: 🛳 Start studying Docker for Node.js projects course from [Bret Fisher](https://www.udemy.com/course/docker-mastery-for-nodejs)
 - 2021-09-23: 🏢 Start working at [Elastic](https://github.com/elastic) from Cmd acquistion
+- 2021-09-28: 🛳 Start studying [CSS for Javascript Developers](https://css-for-js.dev/) from Josh Comeau
