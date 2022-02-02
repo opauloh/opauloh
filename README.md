@@ -7,7 +7,7 @@
 
 
 ### 🛠  Working
-I'm currently solving problems at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
+I'm currently solving problems in the Security Team at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
 
 <table>
