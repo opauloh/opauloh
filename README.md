@@ -9,12 +9,6 @@
 ### 🛠  Working
 I'm currently solving problems at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
-### 🔭  Studying
-Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev
-
-### 🙌 Contributing
-https://github.com/mikaelvesavuori/figmagic
-
 
 <table>
     <tbody>
@@ -55,6 +49,15 @@ https://github.com/mikaelvesavuori/figmagic
         </tr>
     </tbody>
 </table>
+
+### 🔭  Studying
+Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev
+
+### 🙌 Contributing
+https://github.com/mikaelvesavuori/figmagic
+
+### Articles
+[Optimistic UI in Kibana with React Query](https://discuss.elastic.co/t/dec-8th-2021-en-optimistic-ui-in-kibana-with-react-query/289214)
 
 ### Current Year Diary
 - 2022-01-01: 🎇 Happy new Year!
