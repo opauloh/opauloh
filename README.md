@@ -1,30 +1,68 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/opauloh)](https://github.com/opauloh)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohenriquesilva/)](https://www.linkedin.com/in/paulohenriquesilva/)
-[![2020 Badge](https://img.shields.io/badge/-2020-yellow)](https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)
-
 
 # Paulo Henrique
-👋  Hello! I'm a Software Engineer from Brazil, with over 10 years of experience in the field, and in last 7 years I've been working for some top startups in the Americas and I helped to solve many problems by improving some products or ideas and  developing successful platforms in a fast-paced environment.
+👋  Hello! I'm a Sr Software Engineer with over 10 years of experience, I love to work in a fast-paced environment, and in the last years I've been working for some of the top startups in the Americas, where I made great contributions with my development and problem-solving skills.
 
-### Working
-🛠  I'm currently solving problems at Elastic using Javascript, React.js, Typescript and Elastic products
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohenriquesilva/)](https://www.linkedin.com/in/paulohenriquesilva/)
 
-### Learning
-🔭  I’m currently studying Micro Frontends with React, TDD Best practices for React, Advanced React Patterns, React Performance, UX / UI fundamentals, and how to setup Docker for a nice development!
 
-### Languages
-💬  Languages that I speak: 🇧🇷 (native) 🇺🇸 (advanced) 🇫🇷 (learning)
 
-### CurrentYearDiary
-- 2021-01-01: 🎇 Happy new Year!
-- 2021-02-08: 🔭 Started Advanced React Patterns course at [Epic React](https://epicreact.dev)
-- 2021-02-08: 🎓 Start Studying at Interaction Design Foundation - [IDF](https://www.interaction-design.org/)
-- 2021-04-02: 🎓 Start Studying Javascript Mental Models with Dan Abramov and Maggie Appleton in [JustJavascript](https://justjavascript.com/)
-- 2021-04-08: 💬 Participated in UI.dev webinar: Explosive Velocity with TypeScript, Next.js and Tailwind by [Tejas Kumar](https://twitter.com/TejasKumar_)
-- 2021-04-29: 💬 Participated in UI.dev webinar: Designing Scalable Schemas with GraphQL by [Ekve Porcello](https://github.com/eveporcello)
-- 2021-05-10: 📊 Started React Performance course at [Epic React](https://epicreact.dev) from Kent C Dodds
-- 2021-07-16: 🎖 Contributed to [Figmagic](https://github.com/mikaelvesavuori/figmagic) - A tool to Generate design tokens and more from Figma documents
-- 2021-08-03: 🏢 Start working at [Cmd](https://github.com/cmdinc)
-- 2021-08-24: 🛳 Start studying Docker for Node.js projects course from [Bret Fisher](https://www.udemy.com/course/docker-mastery-for-nodejs)
-- 2021-09-23: 🏢 Start working at [Elastic](https://github.com/elastic) from Cmd acquistion
-- 2021-09-28: 🛳 Start studying [CSS for Javascript Developers](https://css-for-js.dev/) from Josh Comeau
+### 🛠  Working
+I'm currently solving problems at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
+
+### 🔭  Studying
+Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev
+
+### 🙌 Contributing
+https://github.com/mikaelvesavuori/figmagic
+
+
+<table>
+    <tbody>
+        <tr>
+          <td colspan="3" align="center" width="510px">
+            <h3>Main Stack</h3>
+          </td>
+          <td align="center"><h3>Stats</h3></td></tr>
+        <tr valign="top">
+            <td width="170px" align="center" valign="middle">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="170px" align="center" valign="middle">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </td>
+            <td width="170px" align="center" valign="middle">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+          <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark"></td>
+        </tr>
+        <tr valign="top">
+            <td width="170px" align="center" valign="middle">
+            <span><strong>Elastic Stack</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/19270322/152226214-b065f534-b1a0-4741-ad60-15250111f9d3.png">
+            </td>
+            <td width="170px" align="center" valign="middle">
+            <span><strong>Node.js</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+            <td width="170px" align="center" valign="middle">
+            <span><strong>HTML / CSS</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Current Year Diary
+- 2022-01-01: 🎇 Happy new Year!
+- 2022-02-02: 🔐 Started [SEC401: Security Essentials: Network, Endpoint, and Cloud](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/) course by SANS institute.
+
+
+### Previous years
+
+[![2021 Badge](https://img.shields.io/badge/-2021-green)](https://github.com/opauloh/opauloh/tree/070beafde17ea1eb514dc35cd49a52a341bfb24d)
+[![2020 Badge](https://img.shields.io/badge/-2020-yellow)](https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)
+
