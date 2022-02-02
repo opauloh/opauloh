@@ -19,35 +19,35 @@ https://github.com/mikaelvesavuori/figmagic
 <table>
     <tbody>
         <tr>
-          <td colspan="3" align="center" width="510px">
+          <td colspan="3" align="center" width="450px">
             <h3>Main Stack</h3>
           </td>
           <td align="center"><h3>Stats</h3></td></tr>
         <tr valign="top">
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>Typescript</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>Javascript</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
           <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark"></td>
         </tr>
         <tr valign="top">
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>Elastic Stack</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/19270322/152226214-b065f534-b1a0-4741-ad60-15250111f9d3.png">
             </td>
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>Node.js</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
-            <td width="170px" align="center" valign="middle">
+            <td width="150px" align="center" valign="middle">
             <span><strong>HTML / CSS</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
