@@ -6,42 +6,35 @@
 
 
 
-### 🛠  Working
+### 🏢  Working
 I'm currently solving problems in the Security Team at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
+### 🛠  Main Stack
+I'm currently solving problems in the Security Team at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
 <table>
     <tbody>
-        <tr>
-          <td colspan="3" align="center" width="450px">
-            <h3>Main Stack</h3>
-          </td>
-          <td align="center"><h3>Stats</h3></td></tr>
         <tr valign="top">
-            <td width="150px" align="center" valign="middle">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <td colspan="2" width="862" align="center" valign="middle">
+                <span><strong>React + TypeScript</strong></span><br>
+                <img height="32px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+                <img height="32" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+                <img height="32" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
-            <td width="150px" align="center" valign="middle">
-            <span><strong>Typescript</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            <td width="150" align="center" valign="middle">
+                <span><strong>Node.js</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
-            <td width="150px" align="center" valign="middle">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
-          <td rowspan="2"><img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark"></td>
         </tr>
         <tr valign="top">
-            <td width="150px" align="center" valign="middle">
+            <td colspan="2" align="center" valign="middle">
             <span><strong>Elastic Stack</strong></span><br>
-            <img height="32px" src="https://user-images.githubusercontent.com/19270322/152226214-b065f534-b1a0-4741-ad60-15250111f9d3.png">
+                <img height="32px" title="Elastic" src="https://user-images.githubusercontent.com/19270322/152226214-b065f534-b1a0-4741-ad60-15250111f9d3.png">
+                <img height="32px" title="ElasticSearch" src="https://user-images.githubusercontent.com/19270322/153010742-b414bf28-49f1-4d02-9f1a-969466687229.svg">
+                <img height="32px" title="Kibana" src="https://user-images.githubusercontent.com/19270322/153010749-9fe5b401-b6d8-4544-9365-baa7ab758ce5.svg">
+                <img height="32px" title="Elastic Security" src="https://user-images.githubusercontent.com/19270322/153010765-981a72b5-1a32-446a-8166-2de804dcc2f8.svg">
             </td>
-            <td width="150px" align="center" valign="middle">
-            <span><strong>Node.js</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-            </td>
-            <td width="150px" align="center" valign="middle">
+            <td align="center" valign="middle">
             <span><strong>HTML / CSS</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -49,6 +42,10 @@ I'm currently solving problems in the Security Team at [Elastic](https://elastic
         </tr>
     </tbody>
 </table>
+
+### 🍕 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark" style="width:100%">
 
 ### 🔭  Studying
 Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev
