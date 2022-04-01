@@ -10,7 +10,6 @@
 I'm currently solving problems in the Security Team at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
 ### 🛠  Main Stack
-I'm currently solving problems in the Security Team at [Elastic](https://elastic.co) using Javascript, React.js, Typescript and Elastic products
 
 <table>
     <tbody>
@@ -43,12 +42,9 @@ I'm currently solving problems in the Security Team at [Elastic](https://elastic
     </tbody>
 </table>
 
-### 🍕 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark" style="width:100%">
 
 ### 🔭  Studying
-Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev
+Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev, Kubernetes
 
 ### 🙌 Contributing
 https://github.com/mikaelvesavuori/figmagic
@@ -59,7 +55,11 @@ https://github.com/mikaelvesavuori/figmagic
 ### Current Year Diary
 - 2022-01-01: 🎇 Happy new Year!
 - 2022-02-02: 🔐 Started [SEC401: Security Essentials: Network, Endpoint, and Cloud](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/) course by SANS institute.
+- 2022-03-31: 🚢 Started [Kubernetes Mastery: Hands-On Lessons From A Docker Captain](https://www.udemy.com/course/kubernetesmastery) course by [Bret Fisher](https://www.bretfisher.com/)
 
+### 🍕 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=opauloh&show_icons=true&theme=dark" style="width:100%">
 
 ### Previous years
 
