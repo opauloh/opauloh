@@ -56,7 +56,7 @@ https://github.com/mikaelvesavuori/figmagic
 - 2022-01-01: 🎇 Happy new Year!
 - 2022-02-02: 🔐 Started [SEC401: Security Essentials: Network, Endpoint, and Cloud](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/) course by SANS institute.
 - 2022-03-31: 🚢 Started [Kubernetes Mastery: Hands-On Lessons From A Docker Captain](https://www.udemy.com/course/kubernetesmastery) course by [Bret Fisher](https://www.bretfisher.com/)
-- 2022-04-29: 💬 Attended to the [Typescript Congress 2022](https://typescriptcongress.com/)
+- 2022-04-29: 💬 Attended the [Typescript Congress 2022](https://typescriptcongress.com/)
 
 ### 🍕 Stats
 
