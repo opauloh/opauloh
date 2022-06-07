@@ -44,7 +44,7 @@ I'm currently solving problems in the Security Team at [Elastic](https://elastic
 
 
 ### 🔭  Studying
-Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev, Kubernetes
+Cyber Security, E2E Tests (Cypress), EpicReact.dev, Css-For-Js.dev, Kubernetes, Solid.js
 
 ### 🙌 Contributing
 https://github.com/mikaelvesavuori/figmagic
