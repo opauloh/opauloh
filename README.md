@@ -32,7 +32,7 @@ EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 
 ### Previous years
 
-[![2022 Badge](https://img.shields.io/badge/-2021-blue)](https://github.com/opauloh/opauloh/tree/2b22c2651cf53e733c275e155e787141c91731c3)
+[![2022 Badge](https://img.shields.io/badge/-2022-blue)](https://github.com/opauloh/opauloh/tree/2b22c2651cf53e733c275e155e787141c91731c3)
 [![2021 Badge](https://img.shields.io/badge/-2021-green)](https://github.com/opauloh/opauloh/tree/070beafde17ea1eb514dc35cd49a52a341bfb24d)
 [![2020 Badge](https://img.shields.io/badge/-2020-yellow)](https://github.com/opauloh/opauloh/tree/18965572e9d19767d00fe06b62adaa46039f45d3)
 
