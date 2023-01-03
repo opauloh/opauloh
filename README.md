@@ -14,7 +14,7 @@ I'm currently working at the Security Team at [Elastic](https://elastic.co) usin
 
 <img width="1508" alt="image" src="https://user-images.githubusercontent.com/19270322/210275333-1ec6205b-d32c-4b8d-8e0d-75e56fdceb01.png">
 
-### 🔭  Studying
+### 🔭  Currently Studying
 
 EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 
