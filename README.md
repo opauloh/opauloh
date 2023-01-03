@@ -18,7 +18,7 @@ I'm currently working at the Security Team at [Elastic](https://elastic.co) usin
 
 EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 
-### 🙌 Contributions
+### 🙌 Open Source Contributions
 https://github.com/mikaelvesavuori/figmagic
 
 ### Articles
