@@ -10,11 +10,11 @@ Currently, I'm focusing on FullStack development, and my primary goals are to wo
 ### 🏢  Working
 I'm currently working at the Security Team at [Elastic](https://elastic.co) using Javascript/Typescript, React.js and the Elastic stack.
 
-### 🛠  Current Stack
+### 🛠  Tooling
 
 <img width="1508" alt="image" src="https://user-images.githubusercontent.com/19270322/210275333-1ec6205b-d32c-4b8d-8e0d-75e56fdceb01.png">
 
-### 🔭  Currently Studying
+### 🔭  Studying
 
 EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 
