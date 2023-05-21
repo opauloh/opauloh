@@ -29,6 +29,8 @@ EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 
 ### Current Year Diary
 - 2023-01-01: ✨ Happy new Year!
+- 2023-03-15: 🤖 Start studying about OpenAI and ChatGPT 3
+- 2023-04-24: 🔐 Went to San Francisco - CA to attend the [RSA Conference 2023](https://www.rsaconference.com/usa) to keep up with the latest trends in Cybersecurity as a developer
 
 ### Previous years
 
