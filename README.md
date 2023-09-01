@@ -16,7 +16,7 @@ I'm currently working at the Security Team at [Elastic](https://elastic.co) usin
 
 ### 🔭  Studying
 
-EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
+Currently interested in Machine Learning Engineering and Generative AI, studying TensorFlow and ChatGPT 3.5 and 4 capabilities
 
 ### 🙌 Open Source Contributions
 
@@ -31,6 +31,7 @@ EpicReact.dev, Css-For-Js.dev, React Design and Patterns, React+TDD
 - 2023-01-01: ✨ Happy new Year!
 - 2023-03-15: 🤖 Start studying about OpenAI and ChatGPT 3
 - 2023-04-24: 🔐 Went to San Francisco - CA to attend the [RSA Conference 2023](https://www.rsaconference.com/usa) to keep up with the latest trends in Cybersecurity as a developer
+- 2023-09-01: 📚 Enrolled in the [Google AI for JavaScript developers with TensorFlow.js](https://www.edx.org/learn/javascript/google-google-ai-for-javascript-developers-with-tensorflow-js) course
 
 ### Previous years
 
