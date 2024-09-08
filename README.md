@@ -1,5 +1,5 @@
 
-# Paulo Henrique
+# Paulo Silva
 👋  Hello!
 
 I am a Software Engineer with 13 years of experience building web applications! Before joining [Elastic](https://elastic.co/), I worked for some of the top startups in the Americas, where I had fun while making significant contributions with my development and problem-solving skills. (Check my trajectory on <a href="https://www.linkedin.com/in/paulohenriquesilva/" style="color: #0177CC"><b>LinkedIn</b></a>)
